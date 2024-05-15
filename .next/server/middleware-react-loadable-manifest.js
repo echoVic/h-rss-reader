@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"index.tsx -> ../components/FeedList\":{\"id\":\"index.tsx -> ../components/FeedList\",\"files\":[\"static/chunks/components_FeedList_tsx.js\"]}}"
